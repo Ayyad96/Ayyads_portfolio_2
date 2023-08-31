@@ -142,7 +142,7 @@ LIMIT 5;
 
 -- the result shows that the highest sales recorded coming from an apple product and the sales are rising drastically during the month of december
 -- the data shows that San Francisco with 8.25M has the highest sales of all time compared to other city followed by Los Angeles with 5.45M
--- Besides that, the data also shows that customer tends to look for battery product where data recording that the highest count for product sold was battery
+-- Besides that, the data also shows that customer tends to look for battery product where data recorded that the highest count for product sold was battery
 -- Further, we can see that the sales growth increase in a year eventhough if we take the measure of the sales growth from month tend to fluctuate 
 
 
